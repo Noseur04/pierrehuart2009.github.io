@@ -7,8 +7,8 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background: #f4f4f4;
-    color: #333;
+    background: #558f9e;
+    color: #ffffff;
     padding-top: 80px;
 }
 
@@ -45,7 +45,7 @@ nav ul li a {
     align-items: center;
     justify-content: center;
     padding: 50px;
-    background: white;
+    background:  #558f9e;
 }
 
 #about img {
@@ -159,6 +159,7 @@ footer {
     max-height: 50px; /* Ajuste selon la taille du texte */
     opacity: 1;
 }
+
 
 @media (max-width: 768px) {
     #about {
